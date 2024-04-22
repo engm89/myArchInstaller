@@ -5,7 +5,7 @@ sleep 1
 
 # pacman --noconfirm -S git unzip unrar firefox vlc file-roller
 
-sudo pacman -S git unzip unrar firefox vlc file-roller
+sudo pacman -S git unzip unrar firefox vlc file-roller jdk-openjdk python
 
 
 
